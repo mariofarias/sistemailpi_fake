@@ -3,32 +3,44 @@
     {
       "id": 1,
       "nome": "Mané Garrincha",
-      "idade": 87
+      "idade": 87,
+      "email": "garrincha@gmail.com"
     },
     {
       "id": 2,
       "nome": "Hebe Camargo",
-      "idade": 91
+      "idade": 91,
+      "email": "hebecamargo@gmail.com"
     },
     {
       "id": 3,
       "nome": "Elis Regina",
-      "idade": 86
+      "idade": 86,
+      "email": "elisregina@gmail.com"
     },
     {
       "id": 4,
       "nome": "Nelson Gonçalves",
-      "idade": 99
+      "idade": 99,
+      "email": "ngoncalves@gmail.com"
     },
     {
       "id": 5,
       "nome": "Silvio Santos",
-      "idade": 80
+      "idade": 80,
+      "email": "silvio@gmail.com"
     },
     {
       "id": 6,
       "nome": "Ataulfo Alves",
-      "idade": 91
+      "idade": 91,
+      "email": "aalves@gmail.com"
+    },
+    {
+      "id": 7,
+      "nome": "Maria da Paz",
+      "idade": 40,
+      "email": "mariadapaz@gmail.com"
     }
     
   ],
