@@ -1,0 +1,28 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "Mané Garrincha",
+      "idade": 87
+    },
+    {
+      "id": 2,
+      "nome": "Hebe Camargo",
+      "idade": 91
+    },
+    {
+      "id": 3,
+      "nome": "Elis Regina",
+      "idade": 86
+    },
+    {
+      "id": 4,
+      "nome": "Nelson Gonçalves",
+      "idade": 99
+    }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
