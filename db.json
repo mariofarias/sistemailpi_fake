@@ -4,25 +4,29 @@
       "id": 1,
       "nome": "Mané Garrincha",
       "idade": 87,
-      "email": "garrincha@gmail.com"
+      "email": "garrincha@gmail.com",
+      "avatar": "https://www.futcards.com.br/wp-content/uploads/2019/02/garrincha-atacante-botafogo-300x300.jpg"
     },
     {
       "id": 2,
       "nome": "Hebe Camargo",
       "idade": 91,
-      "email": "hebecamargo@gmail.com"
+      "email": "hebecamargo@gmail.com",
+      "avatar": "https://www.tribunapr.com.br/wp-content/uploads/sites/1/2018/08/hebe-reproducao2-825x679.jpg"
     },
     {
       "id": 3,
       "nome": "Elis Regina",
       "idade": 86,
-      "email": "elisregina@gmail.com"
+      "email": "elisregina@gmail.com",
+      "avatar": "https://static.meionorte.com/uploads/imagens/2019/3/17/elis-regina-a-maior-cantora-do-brasil-faria-74-anos-hoje-1357d699-ada4-42ef-9ca4-abce90f0b975.jpg"
     },
     {
       "id": 4,
       "nome": "Nelson Gonçalves",
       "idade": 99,
-      "email": "ngoncalves@gmail.com"
+      "email": "ngoncalves@gmail.com",
+      "avatar": "https://web.portalsucesso.com.br/wp-content/uploads/2019/04/nelson.jpg"
     },
     {
       "id": 5,
@@ -35,13 +39,15 @@
       "id": 6,
       "nome": "Ataulfo Alves",
       "idade": 91,
-      "email": "aalves@gmail.com"
+      "email": "aalves@gmail.com",
+      "avatar": ""
     },
     {
       "id": 7,
       "nome": "Maria da Paz",
       "idade": 40,
-      "email": "mariadapaz@gmail.com"
+      "email": "mariadapaz@gmail.com",
+      "avatar": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2019/07/18/3087386-maria-da-paz-juliana-paes-levara-um-go-650x488-1.jpg"
     }
     
   ],
