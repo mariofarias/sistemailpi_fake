@@ -1,73 +1,81 @@
 {
-  "clientes": [
-    {
-      "id": 1,
-      "nome": "Mané Garrincha",
-      "idade": 87,
-      "email": "garrincha@gmail.com",
-      "dataNascimento": "01/01/1935",
-      "avatar": "https://images.squarespace-cdn.com/content/v1/55dc72b7e4b0d45265266606/1509107768348-C3Q9NTR2LNXOWZXFOOCL/ke17ZwdGBToddI8pDm48kJ_b3s_Rjl9SplK-6wv8Y2NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgu77STOCcvYXzqV2L9kbL0s9yoSCXLHaOEj1fcjUnXwKMshLAGzx4R3EDFOm1kBS/002+%281%29.jpg",
-      "responsavel": {
-          "nome": "Elza Soares",
-          "grauParentesco": "Esposa",
-          "profissao": "Cantora",
-          "rg": "1315946 SSP-SP",
-          "cpf": "927.369.918-03",
-          "dataNascimento": "09/09/1950",
-          "endereco":{
-            "rua":"Rua das Acácias, 278",
-            "bairro": "Jardins",
-            "cidade": "São Paulo",
-            "siglaUF": "SP",
-            "cep": "67.980-675"
-          }
-      }
-    },
-    {
-      "id": 2,
-      "nome": "Hebe Camargo",
-      "idade": 91,
-      "email": "hebecamargo@gmail.com",
-      "avatar": "https://www.tribunapr.com.br/wp-content/uploads/sites/1/2018/08/hebe-reproducao2-825x679.jpg"
-    },
-    {
-      "id": 3,
-      "nome": "Elis Regina",
-      "idade": 86,
-      "email": "elisregina@gmail.com",
-      "avatar": "https://static.meionorte.com/uploads/imagens/2019/3/17/elis-regina-a-maior-cantora-do-brasil-faria-74-anos-hoje-1357d699-ada4-42ef-9ca4-abce90f0b975.jpg"
-    },
-    {
-      "id": 4,
-      "nome": "Nelson Gonçalves",
-      "idade": 99,
-      "email": "ngoncalves@gmail.com",
-      "avatar": "https://web.portalsucesso.com.br/wp-content/uploads/2019/04/nelson.jpg"
-    },
-    {
-      "id": 5,
-      "nome": "Silvio Santos",
-      "idade": 80,
-      "email": "silvio@gmail.com",
-      "avatar":"https://f.i.uol.com.br/fotografia/2019/04/16/15554460375cb63915c4cb7_1555446037_3x2_md.jpg"
-    },
-    {
-      "id": 6,
-      "nome": "Ataulfo Alves",
-      "idade": 91,
-      "email": "aalves@gmail.com",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ataulfo_Alves%2C_sem_data.tif/lossy-page1-220px-Ataulfo_Alves%2C_sem_data.tif.jpg"
-    },
-    {
-      "id": 7,
-      "nome": "Maria da Paz",
-      "idade": 40,
-      "email": "mariadapaz@gmail.com",
-      "avatar": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2019/07/18/3087386-maria-da-paz-juliana-paes-levara-um-go-650x488-1.jpg"
-    }
-    
-  ],
-  "profiles": {
-    "name": "typicode"
-  }
+	"clientes": [
+		{
+			"id": 1,
+			"nome": "Mané Garrincha",
+			"idade": 87,
+			"email": "garrincha@gmail.com",
+			"dataNascimento": "01/01/1935",
+			"avatar": "https://images.squarespace-cdn.com/content/v1/55dc72b7e4b0d45265266606/1509107768348-C3Q9NTR2LNXOWZXFOOCL/ke17ZwdGBToddI8pDm48kJ_b3s_Rjl9SplK-6wv8Y2NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgu77STOCcvYXzqV2L9kbL0s9yoSCXLHaOEj1fcjUnXwKMshLAGzx4R3EDFOm1kBS/002+%281%29.jpg",
+			"responsavel": {
+				"nome": "Elza Soares",
+				"grauParentesco": "Esposa",
+				"profissao": "Cantora",
+				"rg": "1315946 SSP-SP",
+				"cpf": "927.369.918-03",
+				"dataNascimento": "09/09/1950",
+				"endereco": {
+					"rua": "Rua das Acácias, 278",
+					"bairro": "Jardins",
+					"cidade": "São Paulo",
+					"siglaUF": "SP",
+					"cep": "67.980-675"
+				}
+			}
+		},
+		{
+			"id": 2,
+			"nome": "Hebe Camargo",
+			"idade": 91,
+			"email": "hebecamargo@gmail.com",
+			"avatar": "https://www.tribunapr.com.br/wp-content/uploads/sites/1/2018/08/hebe-reproducao2-825x679.jpg"
+		},
+		{
+			"id": 3,
+			"nome": "Elis Regina",
+			"idade": 86,
+			"email": "elisregina@gmail.com",
+			"avatar": "https://static.meionorte.com/uploads/imagens/2019/3/17/elis-regina-a-maior-cantora-do-brasil-faria-74-anos-hoje-1357d699-ada4-42ef-9ca4-abce90f0b975.jpg"
+		},
+		{
+			"id": 4,
+			"nome": "Nelson Gonçalves",
+			"idade": 99,
+			"email": "ngoncalves@gmail.com",
+			"avatar": "https://web.portalsucesso.com.br/wp-content/uploads/2019/04/nelson.jpg"
+		},
+		{
+			"id": 5,
+			"nome": "Silvio Santos",
+			"idade": 80,
+			"email": "silvio@gmail.com",
+			"avatar": "https://f.i.uol.com.br/fotografia/2019/04/16/15554460375cb63915c4cb7_1555446037_3x2_md.jpg"
+		},
+		{
+			"id": 6,
+			"nome": "Ataulfo Alves",
+			"idade": 91,
+			"email": "aalves@gmail.com",
+			"avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ataulfo_Alves%2C_sem_data.tif/lossy-page1-220px-Ataulfo_Alves%2C_sem_data.tif.jpg"
+		},
+		{
+			"id": 7,
+			"nome": "Maria da Paz",
+			"idade": 40,
+			"email": "mariadapaz@gmail.com",
+			"avatar": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2019/07/18/3087386-maria-da-paz-juliana-paes-levara-um-go-650x488-1.jpg"
+		}
+	],
+	"profiles": {
+		"name": "typicode"
+	},
+	"materiais": [
+		{
+			"id": 1,
+			"nome": "Desodorante",
+			"quantidade": 2,
+			"dataEntrada": "01/12/2019",
+			"idCliente": 1
+		}
+	]
 }
