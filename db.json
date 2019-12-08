@@ -126,5 +126,88 @@
 			"dataEntrada": "01/12/2019",
 			"idCliente": 4
 		}
+	],
+	"medicamentos": [
+		{
+			"id": 1,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 1
+		},
+		{
+			"id": 2,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 2
+		},
+		{
+			"id": 3,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 2
+		},
+		{
+			"id": 4,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 3
+		},
+		{
+			"id": 5,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 4
+		},
+		{
+			"id": 6,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 4
+		},
+		{
+			"id": 7,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 5
+		},
+		{
+			"id": 8,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 6
+		},
+		{
+			"id": 9,
+			"nome": "Dipirona",
+			"quantidade": "60 ml",
+			"dataEntrada": "01/12/2019",
+			"dataInicio": "05/12/2019",
+			"dataTermino": "20/12/2019",
+			"idCliente": 6
+		}
 	]
 }
