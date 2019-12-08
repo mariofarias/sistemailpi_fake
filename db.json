@@ -97,6 +97,34 @@
 			"quantidade": 1,
 			"dataEntrada": "01/12/2019",
 			"idCliente": 1
+		},
+		{
+			"id": 5,
+			"nome": "Desodorante",
+			"quantidade": 2,
+			"dataEntrada": "01/12/2019",
+			"idCliente": 2
+		},
+		{
+			"id": 6,
+			"nome": "Fralda (G)",
+			"quantidade": 2,
+			"dataEntrada": "01/12/2019",
+			"idCliente": 2
+		},
+		{
+			"id": 7,
+			"nome": "Creme Dental",
+			"quantidade": 2,
+			"dataEntrada": "01/12/2019",
+			"idCliente": 3
+		},
+		{
+			"id": 8,
+			"nome": "Escova de dentes",
+			"quantidade": 1,
+			"dataEntrada": "01/12/2019",
+			"idCliente": 4
 		}
 	]
 }
